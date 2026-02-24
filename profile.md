@@ -10,3 +10,4 @@ I hope to gain a strong understanding of Git, GitHub workflows, and collaborativ
 
 ## Fun Fact
 I can solve a Rubik's cube in under 2 minutes.
+I like scrolling reels.
